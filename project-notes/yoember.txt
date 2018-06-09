@@ -1,0 +1,13 @@
+http://yoember.com/nodejs/the-best-way-to-install-node-js/
+
+$ npm install -g ember-cli-windows
+$ ember-cli-windows
+
+As admin
+$ Set-ExecutionPolicy Unrestricted -scope Process
+$ ember-cli-windows
+
+Logout and execute
+
+$ npm install -g npm
+$ npm install -g ember-cli

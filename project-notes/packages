@@ -1,0 +1,10 @@
+https://www.npmjs.com/package/eslint-plugin-ember-best-practices
+
+$ ember install ember-cli-sass
+$ ember install ember-cli-bootstrap-sassy
+
+$ ember install ember-cli-sass && ember install ember-cli-bootstrap-sassy && echo '@import "bootstrap";' > ./app/styles/app.scss && rm ./app/styles/app.css
+
+https://github.com/jmurphyau/ember-get-helper
+
+ember install:addon ember-get-helper
