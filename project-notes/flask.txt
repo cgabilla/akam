@@ -10,3 +10,10 @@ pip freeze > requirements.txt
 * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
 
 source venv/bin/activate
+pip install configparser
+pip install flask-mysqldb
+
+Github
+http://kbroman.org/github_tutorial/pages/init.html
+
+ssh-keygen -t rsa -b 4096 -C "cgabilla@gmail.com"
