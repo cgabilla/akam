@@ -1,0 +1,14 @@
+\users\cyrus\dev\akam\i-asiv-backend-pyramid\i_asiv_backend_pyramid\venv\scripts\python.exe -m pip install --upgrade pip setuptools
+%VENV%\scripts\pip install -e .
+
+cookiecutter gh:Pylons/pyramid-cookiecutter-starter --checkout 1.9-branch
+
+	
+set VENV=C:\Users\Cyrus\Dev\akam\i_asiv_backend_pyramid\env
+python -m venv %VENV%
+%VENV%\scripts\pip install -e .
+c:\env\myproject> %VENV%\Scripts\pip install -e ".[testing]"
+
+%VENV%\Scripts\pserve development.ini
+
+ember s --proxy http://localhost:6543

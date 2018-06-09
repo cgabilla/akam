@@ -1,1 +1,5 @@
 git branch --set-upstream-to origin/master
+Github
+http://kbroman.org/github_tutorial/pages/init.html
+
+ssh-keygen -t rsa -b 4096 -C "cgabilla@gmail.com"

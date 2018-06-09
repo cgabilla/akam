@@ -11,3 +11,5 @@ Logout and execute
 
 $ npm install -g npm
 $ npm install -g ember-cli
+
+ember g ember-bootstrap --bootstrap-version=3 --preprocessor=sass

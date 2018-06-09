@@ -1,0 +1,4 @@
+[
+  "i_asiv_backend_pyramid/tests.py::ViewTests::test_my_view",
+  "i_asiv_backend_pyramid/tests.py::FunctionalTests::test_root"
+]

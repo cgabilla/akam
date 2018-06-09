@@ -13,7 +13,3 @@ source venv/bin/activate
 pip install configparser
 pip install flask-mysqldb
 
-Github
-http://kbroman.org/github_tutorial/pages/init.html
-
-ssh-keygen -t rsa -b 4096 -C "cgabilla@gmail.com"

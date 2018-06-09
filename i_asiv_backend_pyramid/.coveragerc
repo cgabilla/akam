@@ -1,0 +1,3 @@
+[run]
+source = i_asiv_backend_pyramid
+omit = i_asiv_backend_pyramid/test*
